@@ -7,3 +7,14 @@
 
 # math-box
 Out-of-the-box math utilities.
+
+### Usage
+<code>
+        import {mathBox} from "../index.js";
+        
+        console.log(mathBox.random(3));
+        console.log(mathBox.random(3, 4))
+        console.log(mathBox.random(0, 2, 2));
+        console.log(mathBox.factorial(5));
+        console.log(mathBox.fibonacci(6));
+</code>
