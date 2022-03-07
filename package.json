@@ -1,0 +1,24 @@
+{
+  "name": "math-box",
+  "version": "1.0.0",
+  "description": "Out-of-the-box math utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndyFang36/math-box"
+  },
+  "keywords": [
+    "math",
+    "method",
+    "functions",
+    "utiltities",
+    "simple",
+    "box"
+  ],
+  "author": "Andy Fang",
+  "license": "MPL-2.0",
+  "homepage": "https://github.com/AndyFang36/math-box"
+}
