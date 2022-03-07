@@ -5,7 +5,7 @@
  * @since 1.0.0
  * @license MPL-2.0
  */
-export const mathBox = {
+export const mathMagic = {
     /**
      * @description This method returns a random number in the range [min, max].
      * @param {number} min A small number.
