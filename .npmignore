@@ -2,3 +2,4 @@ node_modules/
 tests/
 .idea/
 .github/
+package-lock.json
