@@ -8,11 +8,16 @@
     <script type="module">
         import {mathMagic} from "../index.js";
 
+        let numbers = [1, 2, 3, 4, 5, 6]
+
+        console.log(mathMagic.random())
         console.log(mathMagic.random(3));
         console.log(mathMagic.random(3, 4))
         console.log(mathMagic.random(0, 2, 2));
         console.log(mathMagic.factorial(5));
         console.log(mathMagic.fibonacci(6));
+        console.log(mathMagic.sum([1, 2, 3, 4, 5,]));
+        console.log(mathMagic.average(numbers, 2));
     </script>
   </body>
 </html>
